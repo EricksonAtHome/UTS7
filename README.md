@@ -3,8 +3,8 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ---
+![img/43645643676.png](https://raw.githubusercontent.com/EricksonAtHome/UTS7/refs/heads/main/img/43645643676.png "43645643676")
 
-{img}
 
 ## Getting Started
 
