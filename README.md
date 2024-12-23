@@ -7,7 +7,7 @@ Use our UTS7 (User Tracking System 7) framework to track users' locations when t
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 > [! Need Donations]
-> Your donations play a vital role in expediting the project's completion. With your support, we can swiftly bring this enhanced version to life and continue delivering valuable updates. [1]: [https://www.buymeacoffee.com/myberp] "Buy Me a Coffee (myberp)"
+> Your donations play a vital role in expediting the project's completion. With your support, we can swiftly bring this enhanced version to life and continue delivering valuable updates. [1]: [https://www.buymeacoffee.com/ericksonathome] "Buy Me a Coffee (myberp)"
 
 -----------------------------------------------------------------------------------------------------------------------------
 
