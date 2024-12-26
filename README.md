@@ -1,4 +1,4 @@
-# UTS7 (User Tracking System 7) - 28-12-2024
+# UTS7 (User Tracking System 7)
 Use our UTS7 (User Tracking System 7) framework to track users' locations when they visit the page. This system costs €9.99 and allows you to monitor user activity, including their geographic location and other insights. Please note: only use this tool for tracking user interactions or to experiment with its functionality.
 
 [Clone BLACKEYE v2.0 to your device ](https://github.com/EricksonAtHome/blackeye)
