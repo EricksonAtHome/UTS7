@@ -1,3 +1,8 @@
+### How to buy UTS7 (User Tracking System 7) and get your discount: s80jfjs
+
+[Buy UTS7 (User Tracking System 7)](https://bpighold.gumroad.com/l/UTS7/s80jfjs)
+
+
 # UTS7 (User Tracking System 7)
 Use our UTS7 (User Tracking System 7) framework to track users' locations when they visit the page. This system costs €9.99 and allows you to monitor user activity, including their geographic location and other insights. Please note: only use this tool for tracking user interactions or to experiment with its functionality.
 
