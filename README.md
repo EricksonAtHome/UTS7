@@ -66,7 +66,7 @@ Contributions are welcome! Feel free to fork the repository and submit pull requ
 Purchase UTS7
 Looking to buy UTS7? Click the link below to purchase:
 
-coming soon [Buy UTS7 Now](https://)
+[Buy UTS7 Now](https://bpighold.gumroad.com/l/UTS7)
 
 ![img/4567654874](https://raw.githubusercontent.com/EricksonAtHome/UTS7/refs/heads/main/img/popular-online-payment-methods-logo-with-white-background-transparent-with-logotype-gateway-icon-set-for-website-free-vector.jpg "4567654874")
 
