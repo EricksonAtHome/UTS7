@@ -45,7 +45,7 @@ To learn more about Next.js, take a look at the following resources:
 
 You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
-![img/65734646.png](https://raw.githubusercontent.com/EricksonAtHome/UTS7/refs/heads/main/img/65734646.png "65734646")
+![img/65734646.png](https://raw.githubusercontent.com/EricksonAtHome/UTS7/refs/heads/main/img/65734646.png")
 
 ## Deploy on Vercel
 
@@ -61,7 +61,7 @@ This project is licensed under the MIT License. For more details, refer to the L
 Contributing
 Contributions are welcome! Feel free to fork the repository and submit pull requests to improve UTS7.
 
-![img/4w35q532445.png](https://raw.githubusercontent.com/EricksonAtHome/UTS7/refs/heads/main/img/4w35q532445.png "4w35q532445")
+![img/4w35q532445.png](https://raw.githubusercontent.com/EricksonAtHome/UTS7/refs/heads/main/img/4w35q532445.png")
 
 
 #### Credits (Copyright)
