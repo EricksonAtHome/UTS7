@@ -1,10 +1,5 @@
-### How to buy UTS7 (User Tracking System 7) and get your discount: s80jfjs
-
-[Buy UTS7 (User Tracking System 7)](https://bpighold.gumroad.com/l/UTS7/s80jfjs)
-
-
-# UTS7 (User Tracking System 7)
-Use our UTS7 (User Tracking System 7) framework to track users' locations when they visit the page. This system costs €9.99 and allows you to monitor user activity, including their geographic location and other insights. Please note: only use this tool for tracking user interactions or to experiment with its functionality.
+# UTS7 (User Tracking System 7) - 28-12-2024
+Use our UTS7 (User Tracking System 7) framework to track users' locations when they visit the page. allows you to monitor user activity, including their geographic location and other insights. Please note: only use this tool for tracking user interactions or to experiment with its functionality.
 
 [Clone BLACKEYE v2.0 to your device ](https://github.com/EricksonAtHome/blackeye)
 
@@ -12,7 +7,7 @@ Use our UTS7 (User Tracking System 7) framework to track users' locations when t
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 > [! Need Donations]
-> Your donations play a vital role in expediting the project's completion. With your support, we can swiftly bring this enhanced version to life and continue delivering valuable updates. [1]: [https://www.buymeacoffee.com/ericksonathome] "Buy Me a Coffee (myberp)"
+> Your donations play a vital role in expediting the project's completion. With your support, we can swiftly bring this enhanced version to life and continue delivering valuable updates. [1]: [https://www.buymeacoffee.com/myberp] "Buy Me a Coffee (myberp)"
 
 -----------------------------------------------------------------------------------------------------------------------------
 
@@ -50,7 +45,7 @@ To learn more about Next.js, take a look at the following resources:
 
 You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
-![img/75734646.png](https://raw.githubusercontent.com/EricksonAtHome/UTS7/refs/heads/main/img/75734646.png "75734646")
+![img/65734646.png](https://raw.githubusercontent.com/EricksonAtHome/UTS7/refs/heads/main/img/65734646.png "65734646")
 
 ## Deploy on Vercel
 
@@ -66,14 +61,7 @@ This project is licensed under the MIT License. For more details, refer to the L
 Contributing
 Contributions are welcome! Feel free to fork the repository and submit pull requests to improve UTS7.
 
-![img/5w35q532445.png](https://raw.githubusercontent.com/EricksonAtHome/UTS7/refs/heads/main/img/5w35q532445.png "5w35q532445")
-
-Purchase UTS7
-Looking to buy UTS7? Click the link below to purchase:
-
-[Buy UTS7 Now](https://bpighold.gumroad.com/l/UTS7)
-
-![img/4567654874](https://raw.githubusercontent.com/EricksonAtHome/UTS7/refs/heads/main/img/popular-online-payment-methods-logo-with-white-background-transparent-with-logotype-gateway-icon-set-for-website-free-vector.jpg "4567654874")
+![img/4w35q532445.png](https://raw.githubusercontent.com/EricksonAtHome/UTS7/refs/heads/main/img/4w35q532445.png "4w35q532445")
 
 
 #### Credits (Copyright)
@@ -86,4 +74,3 @@ BTC: bc1qmz5qmhyfzrm9hn2gnus85exhry64a8zekyzjuu
 -----------------------------------------------------------------------------------------------------------------------------
 LTC: ltc1qk4cuts4w8202tr2efun4c380n6nsq4eafxlg4k
 -----------------------------------------------------------------------------------------------------------------------------
-
